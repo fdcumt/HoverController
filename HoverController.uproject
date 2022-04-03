@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F8257D5D-4563-377B-989C-598767AC71EA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HoverController",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PhysXVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		}
+	]
+}
